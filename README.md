@@ -62,16 +62,30 @@ Diplômé en **Développement Digital – Full Stack (OFPPT)**, j’aime transfo
 
 # 📊 **GitHub Stats**
 
+<!-- 🔥 Streak Stats -->
 <p align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZOOMxx-123&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZOOMxx-123&theme=tokyonight&hide_border=true&border_radius=12" 
+    height="185" 
+  />
 </p>
+
+<!-- 🟦 Stats & Langages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZOOMxx-123&theme=tokyonight" height="185" />
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZOOMxx-123&theme=tokyonight" height="185" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZOOMxx-123&theme=tokyonight&utcOffset=1" height="185" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZOOMxx-123&theme=tokyonight" 
+    height="185" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZOOMxx-123&theme=tokyonight" 
+    height="185" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZOOMxx-123&theme=tokyonight&utcOffset=1" 
+    height="185" 
+  />
 </p>
 
 
