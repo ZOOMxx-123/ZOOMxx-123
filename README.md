@@ -64,13 +64,10 @@ Diplômé en **Développement Digital – Full Stack (OFPPT)**, j’aime transfo
 
 # 📊 **GitHub Stats**
 
-<p align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZOOMxx-123&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZOOMxx-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZOOMxx-123&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZOOMxx-123&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
+
 </p>
 
 ---
