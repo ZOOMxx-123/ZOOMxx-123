@@ -113,7 +113,7 @@ Diplômé en **Développement Digital – Full Stack (OFPPT)**, je maîtrise plu
 
 ---
 
-## 💡 **Goals for 2025**
+## 💡 **Goals for 2026**
 ✔️ Monter un portfolio pro  
 ✔️ Publier plusieurs projets Full-Stack  
 ✔️ Améliorer mes compétences en cybersécurité  
