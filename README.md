@@ -1,15 +1,13 @@
 # 🚀 **Hi, I'm Soulaimane Bhelrhiti (ZOOMxx-123)**
 ### 🎯 *Full-Stack Web Developer*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BD1FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Soulaimane+Bhelrhiti+(ZOOMxx-123);Full-Stack+Developer+%7C+OFPPT+Graduate;Web+%26+Mobile+Development+Enthusiast;Always+Learning+%26+Building+New+Projects" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BD1FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Soulaimane+Bhelrhiti+(ZOOMxx-123);Full-Stack+Developer+%7C+OFPPT+Graduate;Web+%26+Mobile+Development+Enthusiast;Always+Learning+%26+Building+New+Projects" /> </p> <p align="center"> <img src="https://github.com/ZOOMxx-123.png" width="120" style="border-radius:50%;" /> </p>
 
 ---
 
 # 👨‍💻 **About Me**
 
-Je suis un **Développeur Web Full-Stack**, passionné par les interfaces modernes, le code propre et l’apprentissage continu.  
+Je suis un **Développeur Full-Stack**, passionné par les interfaces modernes, le code propre et l’apprentissage continu.
 Diplômé en **Développement Digital – Full Stack (OFPPT)**, j’aime transformer des idées en projets concrets et utiles.
 
 ---
@@ -69,6 +67,13 @@ Diplômé en **Développement Digital – Full Stack (OFPPT)**, j’aime transfo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZOOMxx-123&theme=tokyonight&hide_border=true&border_radius=12" height="185" />
 
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZOOMxx-123&theme=tokyonight" height="185" />
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZOOMxx-123&theme=tokyonight" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZOOMxx-123&theme=tokyonight&utcOffset=1" height="185" />
+</p>
+
 
 ---
 
